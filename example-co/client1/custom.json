@@ -1,7 +1,7 @@
 {
   "maxAccounts": 2,
-  "applicationId": "com.example.client1",
-  "userId": "com.example.client1",
+  "applicationId": "com.wire.example.client1",
+  "userId": "com.wire.example.client1",
   "_comment": "appName must match the value of 'app_name' in strings.xml",
   "appName": "Wire Client1",
   "stringsCustomizationReplacements": [],
