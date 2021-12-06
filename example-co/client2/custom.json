@@ -3,7 +3,7 @@
   "applicationId": "com.example.client2",
   "userId": "com.example.client2",
   "_comment": "appName must match the value of 'app_name' in strings.xml",
-  "appName": "Wire Client 2",
+  "appName": "Custom Logo Wire",
   "stringsCustomizationReplacements": [],
   "backendUrl": "https://prod-2-https.your-domain.com",
   "websocketUrl": "https://prod-2-ssl.your-domain.com",
@@ -21,6 +21,8 @@
       "domain": "*.your-domain.com",
       "certificate" : "your-certificate"
   },
+  "iconFolder": "icons",
+  "launcherIcon": "ic_launcher.png",
   "languages": [
     "de",
     "uk",
